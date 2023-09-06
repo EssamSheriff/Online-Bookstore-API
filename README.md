@@ -5,6 +5,7 @@ Regular users can browse books by category, search for books using different cri
 
 Admin users have additional capabilities to manage the bookstore inventory. They can add new books, update existing book information, and remove books from the inventory. Admin users can also view and manage customer orders, allowing them to track and process orders efficiently.
 
+
 To ensure security, the API implements authentication and authorization mechanisms. Regular users and admin users have different access levels and permissions, ensuring that only authorized users can perform specific actions.
 
 
